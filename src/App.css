@@ -15,8 +15,8 @@ html, body {
     flex: 1; /* Allow the main content to stretch */
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    /*justify-content: center;
+    align-items: center;*/
     padding: 2rem;
   }
   
